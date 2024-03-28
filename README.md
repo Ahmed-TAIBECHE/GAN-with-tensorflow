@@ -68,7 +68,7 @@ By following these steps and referencing the provided materials, you can effecti
     
 
 
-
+# PS : try this template for your data science projects i found it really amazing
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
