@@ -8,7 +8,7 @@ This project aims to implement Generative Adversarial Networks (GANs) to gain a 
 * Explore the training dynamics and challenges associated with GANs.
 * Generate realistic images resembling the target dataset.
 
-## Dataset
+## Dataset(not all the full dataset is available in /Data just samples )
 
 The project utilizes the Fashion-MNIST dataset from TensorFlow Datasets (https://www.tensorflow.org/datasets/catalog/fashion_mnist), which consists of 70,000 grayscale images of various clothing articles.
 
